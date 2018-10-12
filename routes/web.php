@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('get','ApiController@Get');
+Route::get('post','ApiController@Post');
+Route::get('put','ApiController@Put');
+Route::get('delete','ApiController@Delete');

@@ -6,8 +6,7 @@ Laravel 5.7+Guzzle Example
 ```
 1-Git clone
 2-Run command "Composer Install"
-3-Define your database connection in .env file
-4-Run command "php artisan migrate"
+3-Define  "your api_url" in "App\Http\Controllers\ApiController"
 5-Run command "php artisan serve"
 ```
 

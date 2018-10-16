@@ -10,11 +10,12 @@ Laravel 5.7+Guzzle Example
 5-Run command "php artisan serve"
 ```
 ##Built with
-```
-[Laravel](https://github.com/laravel/laravel) - [Licence](https://opensource.org/licenses/MIT) 
-1-<a href="https://github.com/guzzle/guzzle">Guzzle </a> -<a href="https://opensource.org/licenses/MIT">Licence </a>
 
-```
+*- [Laravel](https://github.com/laravel/laravel) - [Licence](https://opensource.org/licenses/MIT) 
+
+*- [Guzzle](https://github.com/guzzle/guzzle) - [Licence](https://opensource.org/licenses/MIT)
+
+
 
 Enjoy it ;)
 

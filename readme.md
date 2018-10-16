@@ -9,6 +9,12 @@ Laravel 5.7+Guzzle Example
 3-Define  "your api_url" in "App\Http\Controllers\ApiController"
 5-Run command "php artisan serve"
 ```
+##Built with
+```
+1-<a href="https://github.com/laravel/laravel">Laravel </a> -<a href="https://opensource.org/licenses/MIT">Licence </a>
+1-<a href="https://github.com/guzzle/guzzle">Guzzle </a> -<a href="https://opensource.org/licenses/MIT">Licence </a>
+
+```
 
 Enjoy it ;)
 

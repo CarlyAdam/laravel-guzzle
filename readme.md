@@ -11,7 +11,7 @@ Laravel 5.7+Guzzle Example
 ```
 ##Built with
 ```
-1-<a href="https://github.com/laravel/laravel">Laravel </a> -<a href="https://opensource.org/licenses/MIT">Licence </a>
+[Laravel](https://github.com/laravel/laravel) - [Licence](https://opensource.org/licenses/MIT) 
 1-<a href="https://github.com/guzzle/guzzle">Guzzle </a> -<a href="https://opensource.org/licenses/MIT">Licence </a>
 
 ```
